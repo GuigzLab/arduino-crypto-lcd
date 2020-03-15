@@ -1,0 +1,156 @@
+{
+    "status": {
+        "timestamp": "2020-03-15T22:11:34.396Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 12,
+        "credit_count": 1,
+        "notice": "You have used 97% of your plan's daily credit limit."
+    },
+    "data": {
+        "BAT": {
+            "id": 1697,
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "slug": "basic-attention-token",
+            "num_market_pairs": 160,
+            "date_added": "2017-06-01T00:00:00.000Z",
+            "tags": [],
+            "max_supply": null,
+            "circulating_supply": 1438404737.5363,
+            "total_supply": 1500000000,
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+            },
+            "cmc_rank": 34,
+            "last_updated": "2020-03-15T22:11:05.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 0.12012191373513356,
+                    "volume_24h": 55709088.277709186,
+                    "percent_change_1h": 6.58174945,
+                    "percent_change_24h": 5.65141776,
+                    "percent_change_7d": -33.26374267,
+                    "market_cap": 172783929.79854283,
+                    "last_updated": "2020-03-15T22:11:00.000Z"
+                }
+            }
+        },
+        "BTC": {
+            "id": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "slug": "bitcoin",
+            "num_market_pairs": 7807,
+            "date_added": "2013-04-28T00:00:00.000Z",
+            "tags": [
+                "mineable"
+            ],
+            "max_supply": 21000000,
+            "circulating_supply": 18272212,
+            "total_supply": 18272212,
+            "platform": null,
+            "cmc_rank": 1,
+            "last_updated": "2020-03-15T22:10:36.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 5167.37976721437,
+                    "volume_24h": 30243192969.04622,
+                    "percent_change_1h": 7.49384692,
+                    "percent_change_24h": 8.72262366,
+                    "percent_change_7d": -28.78923005,
+                    "market_cap": 94419458591.05162,
+                    "last_updated": "2020-03-15T22:11:00.000Z"
+                }
+            }
+        },
+        "ETH": {
+            "id": 1027,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "slug": "ethereum",
+            "num_market_pairs": 5194,
+            "date_added": "2015-08-07T00:00:00.000Z",
+            "tags": [
+                "mineable"
+            ],
+            "max_supply": null,
+            "circulating_supply": 110110287.1865,
+            "total_supply": 110110287.1865,
+            "platform": null,
+            "cmc_rank": 2,
+            "last_updated": "2020-03-15T22:10:23.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 117.11081856630835,
+                    "volume_24h": 11532162664.173569,
+                    "percent_change_1h": 4.90425049,
+                    "percent_change_24h": 3.44377941,
+                    "percent_change_7d": -36.58370287,
+                    "market_cap": 12895105864.98231,
+                    "last_updated": "2020-03-15T22:11:00.000Z"
+                }
+            }
+        },
+        "LTC": {
+            "id": 2,
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "slug": "litecoin",
+            "num_market_pairs": 568,
+            "date_added": "2013-04-28T00:00:00.000Z",
+            "tags": [
+                "mineable"
+            ],
+            "max_supply": 84000000,
+            "circulating_supply": 64292868.2031291,
+            "total_supply": 64292868.2031291,
+            "platform": null,
+            "cmc_rank": 6,
+            "last_updated": "2020-03-15T22:11:05.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 33.87133972309125,
+                    "volume_24h": 3078706325.653421,
+                    "percent_change_1h": 5.10367093,
+                    "percent_change_24h": 7.4990277,
+                    "percent_change_7d": -27.35926677,
+                    "market_cap": 2177685580.680117,
+                    "last_updated": "2020-03-15T22:11:00.000Z"
+                }
+            }
+        },
+        "ZEC": {
+            "id": 1437,
+            "name": "Zcash",
+            "symbol": "ZEC",
+            "slug": "zcash",
+            "num_market_pairs": 217,
+            "date_added": "2016-10-29T00:00:00.000Z",
+            "tags": [
+                "mineable"
+            ],
+            "max_supply": 21000000,
+            "circulating_supply": 9406293.75,
+            "total_supply": 9406293.75,
+            "platform": null,
+            "cmc_rank": 28,
+            "last_updated": "2020-03-15T22:11:05.000Z",
+            "quote": {
+                "EUR": {
+                    "price": 23.958933292183435,
+                    "volume_24h": 166610928.92630884,
+                    "percent_change_1h": 5.33220342,
+                    "percent_change_24h": 4.50691177,
+                    "percent_change_7d": -38.3831148,
+                    "market_cap": 225364764.48293197,
+                    "last_updated": "2020-03-15T22:11:00.000Z"
+                }
+            }
+        }
+    }
+}
